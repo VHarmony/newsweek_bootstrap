@@ -1,0 +1,14 @@
+.container-fluid {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.news-title {
+    font-family: 'Times New Roman', Times, serif;
+    font: 40px;
+    color: crimson;
+}
+
+.card {
+    border: 0px;
+}
